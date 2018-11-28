@@ -23,5 +23,6 @@ note  and wanderful note collection
 
 <ul>
   <h2>4、注解</h2>
+  <li>https://www.jianshu.com/p/5c5697019769</li>
   <li>@NotNull: http://note.youdao.com/noteshare?id=758abe81a71652a83b6b19ce11c2971e</li>
 </ul>
