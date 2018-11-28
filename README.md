@@ -20,3 +20,8 @@ note  and wanderful note collection
   <h2>3、java内存可见性学习笔记:</h2>
   <li>https://blog.csdn.net/u011063151/article/details/52556357</li>
 </ul>
+
+<ul>
+  <h2>注解</h2>
+  <li>@NotNull: http://note.youdao.com/noteshare?id=758abe81a71652a83b6b19ce11c2971e</li>
+</ul>
