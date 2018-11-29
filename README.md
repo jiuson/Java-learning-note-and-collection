@@ -30,3 +30,21 @@ note  and wanderful note collection
   <h2>5、线程池</h2>
   <li>http://note.youdao.com/noteshare?id=9062237d02d905e665ce1db029e8e43d</li>
 </ul>
+
+<ul>
+  <h2>6、ThreadLocal</h2>
+  <p>ThreadLocal是为线程同步设计的，主要应用场景：数据库连接，session共享</p>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
