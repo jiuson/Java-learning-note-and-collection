@@ -10,7 +10,7 @@ public class TraversalMap{
         map.put("2", "b");
         map.put("3", "ab");
         map.put("4", "ab");
-        map.put("4", "ab");// 和上面相同 ， 会覆盖
+        map.put("4", "ab");// 和上面相同 ， 会覆盖，因为HashMap不能存在相同的key
         System.out.println(map.size());
         // 第一种：
         /*
