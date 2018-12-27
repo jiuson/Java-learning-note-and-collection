@@ -7,7 +7,7 @@ note  and wanderful note collection
 
 
 <ul>
-  <h2>1、Java 集合:</h2>
+  <p>1、Java 集合:</p>
   <li>http://note.youdao.com/noteshare?id=63163be449cc3053e0af674dda5ef500</li>
   <p>2、==和equals()方法:</p>
   <li>用符号==比较字符串，比较的是两个字符串的引用是否相等，而用equals（）方法比较的是两个字符串的内容是否相等；此原理同样适用两个对象之间的比较。     </li>
