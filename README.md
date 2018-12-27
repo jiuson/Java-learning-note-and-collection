@@ -1,7 +1,3 @@
-<ul>
-  <h2></h2>
-  <li></li>
-</ul>
 # Java-learning-note-and-collection
 note  and wanderful note collection
 
@@ -17,8 +13,11 @@ note  and wanderful note collection
   <li>@NotNull: http://note.youdao.com/noteshare?id=758abe81a71652a83b6b19ce11c2971e</li>
   <p>5、线程池</p>
   <li>http://note.youdao.com/noteshare?id=9062237d02d905e665ce1db029e8e43d</li>
-  <p>6、ThreadLocal</>
-  <p>ThreadLocal是为线程同步设计的，主要应用场景：数据库连接，session共享</p>
+  <p>6、ThreadLocal<br>
+    ThreadLocal是为线程同步设计的，主要应用场景：数据库连接，session共享
+  </p>
+  <p>Nginx 反向代理引发的java.io.EOPException</p>
+  <li>http://note.youdao.com/noteshare?id=e2900ec19aa6bce7dd785d560fff8aa8</li>
 </ul>
 
 
