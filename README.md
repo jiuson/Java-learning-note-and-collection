@@ -17,6 +17,7 @@ note  and wanderful note collection
   <li>7、Nginx 反向代理引发的java.io.EOPException</p>
   <p>http://note.youdao.com/noteshare?id=e2900ec19aa6bce7dd785d560fff8aa8</p>
   <li>8、SpringBoot websocket 获取SpringBoot 管理的Bean问题？</li>
+  <li>9、SpringBoot 通过stomp协议实现websocket？</li>
 </ul>
 
 
