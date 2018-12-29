@@ -16,8 +16,10 @@ note  and wanderful note collection
   <p>6、ThreadLocal<br>
     ThreadLocal是为线程同步设计的，主要应用场景：数据库连接，session共享
   </p>
-  <p>Nginx 反向代理引发的java.io.EOPException</p>
+  <p>7、Nginx 反向代理引发的java.io.EOPException</p>
   <li>http://note.youdao.com/noteshare?id=e2900ec19aa6bce7dd785d560fff8aa8</li>
+  
+  <p>8、SpringBoot websocket 获取SpringBoot 管理的Bean问题？</p>
 </ul>
 
 
