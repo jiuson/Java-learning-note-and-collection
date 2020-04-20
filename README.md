@@ -1,5 +1,4 @@
-# Java-learning-note-and-collection
-note  and wanderful note collection
+# Java基础
 
 
 <ul>
