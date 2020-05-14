@@ -1,0 +1,28 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+    <servlet-name>springmvcDispatcher</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <init-param>
+      <!--注意要点：
+        contextConfigLocation配置springmvc加载的配置文件（配置处理器映射器、适配器等等）
+        如果不配置contextConfigLocation,默认加载的是/WEB-INF/servlet名称-servlet.xml(springmvc-servlet.xml)
+      -->
+      <param-name>contextConfigLocation</param-name>
+      <param-value>spring/springmvc.xml</param-value>
+    </init-param>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>springmvcDispatcher</servlet-name>
+    <!--使用springmvc非注解方式-->
+    <url-pattern>*.action</url-pattern>
+    <!--使用springmvc注解方式-->
+    <!--<url-pattern>/action/*</url-pattern>-->
+  </servlet-mapping>
+</web-app>
