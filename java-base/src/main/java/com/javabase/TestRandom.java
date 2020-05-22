@@ -1,3 +1,5 @@
+package com.javabase;
+
 import java.util.Random;
 
 /**

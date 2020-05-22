@@ -1,3 +1,5 @@
+package com.javabase;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -5,7 +7,7 @@ import java.util.Date;
 /**
  * description: TestStringToDate <br>
  * date: 2019/12/1 19:24 <br>
- * author: user <br>
+ * author: chali <br>
  * version: 1.0 <br>
  */
 public class TestStringToDate {

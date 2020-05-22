@@ -1,7 +1,6 @@
-import sun.awt.image.IntegerInterleavedRaster;
+package com.javabase;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**

@@ -1,6 +1,15 @@
+package com.javabase;
+
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+
+/**
+ * description: 遍历Map <br>
+ * date: 2019/12/1 19:24 <br>
+ * author: chali <br>
+ * version: 1.0 <br>
+ */
 
 public class TraversalMap{
 	

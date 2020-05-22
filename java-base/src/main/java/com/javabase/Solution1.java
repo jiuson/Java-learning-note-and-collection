@@ -1,3 +1,5 @@
+package com.javabase;
+
 /**
  * description: Solution1 <br>
  * date: 2020/1/1 9:25 <br>
