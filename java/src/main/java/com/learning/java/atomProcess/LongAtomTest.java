@@ -1,7 +1,5 @@
 package com.learning.java.atomProcess;
 
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
-
 /**
  * @program java
  * @author jiuson

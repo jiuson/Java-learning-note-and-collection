@@ -1,13 +1,13 @@
 package com.javabase;
 
+import org.springframework.util.Base64Utils;
+
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 
-import org.springframework.util.Base64Utils;
-
 public class AesUtil {
-	
+
 	/**
 	 * 加密
 	 * @param content
@@ -53,7 +53,7 @@ public class AesUtil {
 
 	    return skeySpec;
 	}
-	
+
 	/**
 	 * base 64 encode
 	 * @param bytes 待编码的byte[]
@@ -72,7 +72,7 @@ public class AesUtil {
 	public static byte[] base64Decode(String base64Code) throws Exception{
 	    return base64Code.isEmpty() ? null : Base64Utils.decodeFromString(base64Code);
 	}
-	
+
 	/**
 	 * AES加密为base 64 code
 	 * @param content 待加密的内容
@@ -93,7 +93,7 @@ public class AesUtil {
 	public static String aesDecrypt(String encryptStr, String decryptKey) throws Exception {
 	    return encryptStr.isEmpty() ? null : decrypt(base64Decode(encryptStr), decryptKey);
 	}
-	
+
 	public static void main(String[] args) throws Exception {
 	    String test = "我爱你";
 	    System.out.println("加密前：" + test);
